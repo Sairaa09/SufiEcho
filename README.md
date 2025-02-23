@@ -1,2 +1,2 @@
 # SufiEcho
-Music web
+SufiEcho - Web Player
